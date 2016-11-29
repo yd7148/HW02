@@ -1,0 +1,78 @@
+/*
+
+.rect{
+    width:370px;
+    height:214px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 150px;
+    font-size: 40px;
+    font-weight: 900;
+    
+}
+*/
+
+.div{
+    border-style: dotted
+}
+
+.inner{
+   background:  #fdfdbe;
+}
+.box{
+  width:42px;
+  height:42px; 
+  border-radius: 50%;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 900;
+  font-family: 微軟正黑體;
+}
+.h2{
+    color:#f5254f;
+    font-family: 微軟正黑體;
+}
+.h3{
+font-size: 1em;
+font-family: 微軟正黑體;
+}
+.bg1{
+ background: #f4cf09; 
+}
+.bg2{
+ background: #ffdf32; 
+}
+.bg3{
+ background: #ffdf32; 
+}
+.bg4{
+ background: #ffdf32; 
+}
+.bg5{
+ background: #ffdf32; 
+}
+.bg6{
+ background: #ffdf32; 
+}
+.bg7{
+ background: #ffdf32; 
+}
+.bg8{
+ background: #ffdf32; 
+}
+.bg9{
+ background: #ffdf32; 
+}
+.bg10{
+ background: #ffdf32; 
+}
+.bg11{
+ background: #ffdf32; 
+}
+.bg12{
+ background: #ffdf32; 
+}
+.bg13{
+    background: #f40101;
+    color: white;
+}
